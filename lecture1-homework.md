@@ -4,8 +4,10 @@
 
 ## 第1题 ZKP 三色演示
 
-访问并试用[交互式演示](pathname:///interactive/graph.html)。 这是我们在课堂上学习的三色示例的程序化版本。
+访问并试用[交互式演示](https://zkshanghai.xyz/interactive/graph.html)。 这是我们在课堂上学习的三色示例的程序化版本。
 
+练习 1： 目前，您只能选择相邻的节点对进行检查。 如果您可以选择任意节点对来检查，证明仍然是零知识吗？
+答：不是
 - 回答页面底部的练习 1。
 
 ## 第2题 zkmessage.xyz
